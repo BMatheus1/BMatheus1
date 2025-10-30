@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Brito
 
-### 💻 Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas
+### 💻 Desenvolvedor Back-End | Formado em Análise e Desenvolvimento de Sistemas
 
 Sou apaixonado por tecnologia e atualmente estou **focado em desenvolvimento Back-End com Python**, mas também tenho **noções de Front-End** utilizando **React.js**, **HTML**, **CSS** e **JavaScript**.
 
