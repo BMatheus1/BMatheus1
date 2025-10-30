@@ -2,13 +2,15 @@
 
 ### 💻 Desenvolvedor Back-End | Formado em Análise e Desenvolvimento de Sistemas
 
-Sou apaixonado por tecnologia e atualmente estou **focado em desenvolvimento Back-End com Python**, mas também tenho **noções de Front-End** utilizando **React.js**, **HTML**, **CSS** e **JavaScript**.
+Sou apaixonado por tecnologia e atualmente estou **focado em desenvolvimento Back-End com Python**, mas também tenho **noções de Front-End** utilizando **React.js**, **HTML**, **CSS** e **JavaScript**.  
+Além disso, possuo **Inglês em nível avançado**, o que me permite ler, escrever e me comunicar fluentemente em ambientes técnicos e colaborativos.
 
 ---
 
 ## 🚀 Sobre mim
 - 🌱 Atualmente aprendendo **Python (FastAPI, Flask, Django)**, **APIs REST**, **bancos de dados relacionais (PostgreSQL, MySQL)** e **testes com PyTest**.  
-- 👀 Interessado em projetos de **desenvolvimento web**, especialmente em **integração entre front e back-end**.  
+- 👀 Interessado em projetos de **desenvolvimento web**, especialmente em **integração entre front e back-end**.
+- 🌐 Idiomas: **Português (nativo)** | **Inglês (avançado)**
 - 💬 Gosto de aprender constantemente e aplicar boas práticas de código limpo e design responsivo.  
 - ⚡ Experiência prática em **ambientes de produção e vendas**, com foco em **comunicação, trabalho em equipe e resolução de problemas**.  
 - 💞️ Aberto a colaborar em projetos com foco em **Python, APIs e React.js**.  
