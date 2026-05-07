@@ -101,25 +101,13 @@ Projeto de aplicação com foco em serviço de fast food, reforçando minha prá
 - organização de projetos para portfólio profissional
 
 ---
-
-## 🛠️ Tecnologias e ferramentas
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql,docker,git,github,vscode,linux" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="49%" />
+  <img src="/github-metrics-languages.svg" alt="Top Languages" width="49%" />
 </p>
 
----
-
-## 🚀 Projetos em destaque
-
-- [projeto_sepse_2.0](https://github.com/BMatheus1/projeto_sepse_2.0)  
-  Projeto de Machine Learning para apoio à triagem de risco de sepse, com foco em análise de métricas, API e aplicação prática.
-
-- [pdf_reader](https://github.com/BMatheus1/pdf_reader)  
-  Aplicação em Streamlit para leitura e busca inteligente em PDFs, com busca lexical, semântica e híbrida.
-
-- [your-food](https://github.com/BMatheus1/your-food)  
-  Projeto voltado ao desenvolvimento de aplicação com foco em organização e experiência prática.
 ---
 
 ## 📫 Contato
