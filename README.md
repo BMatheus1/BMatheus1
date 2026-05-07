@@ -104,8 +104,7 @@ Projeto de aplicação com foco em serviço de fast food, reforçando minha prá
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="49%" />
-  <img src="/github-metrics-languages.svg" alt="Top Languages" width="49%" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
