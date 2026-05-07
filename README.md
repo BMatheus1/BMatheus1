@@ -102,13 +102,24 @@ Projeto de aplicação com foco em serviço de fast food, reforçando minha prá
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BMatheus1&show_icons=true&hide_border=true"
-  />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mysql,docker,git,github,vscode,linux" />
 </p>
+
+---
+
+## 🚀 Projetos em destaque
+
+- [projeto_sepse_2.0](https://github.com/BMatheus1/projeto_sepse_2.0)  
+  Projeto de Machine Learning para apoio à triagem de risco de sepse, com foco em análise de métricas, API e aplicação prática.
+
+- [pdf_reader](https://github.com/BMatheus1/pdf_reader)  
+  Aplicação em Streamlit para leitura e busca inteligente em PDFs, com busca lexical, semântica e híbrida.
+
+- [your-food](https://github.com/BMatheus1/your-food)  
+  Projeto voltado ao desenvolvimento de aplicação com foco em organização e experiência prática.
 ---
 
 ## 📫 Contato
