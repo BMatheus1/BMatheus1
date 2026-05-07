@@ -106,15 +106,9 @@ Projeto de aplicação com foco em serviço de fast food, reforçando minha prá
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=BMatheus1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMatheus1&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=BMatheus1&show_icons=true&hide_border=true"
   />
 </p>
-
 ---
 
 ## 📫 Contato
