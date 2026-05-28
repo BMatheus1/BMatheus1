@@ -169,11 +169,10 @@ Projeto didático para prática de Programação Orientada a Objetos, validaçã
 - aplicar IA em soluções úteis para negócios, saúde, documentos e produtividade
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BMatheus1&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="700" />
 </p>
 
 <p align="center">
