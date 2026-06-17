@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Matheus Brito 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 <p align="center">
   Desenvolvedor em formação sólida, com foco em <strong>Python</strong>, <strong>Back-End</strong>, <strong>Machine Learning</strong>, <strong>IA aplicada</strong> e construção de produtos digitais úteis.
